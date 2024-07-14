@@ -7,9 +7,9 @@ Welcome to the official GitHub repository of **TriadTechFusion**! We are a group
 ### Who We Are
 
 TriadTechFusion consists of:
-- **Sahil Kumar Gupta**
-- **Aayush Parajuli**
-- **Dileep Kushwaha**
+- **Sahil Gupta** (https://github.com/sahilgupta43)
+- **Aayush Parajuli** (https://github.com/Aayush-Parajuli-lab)
+- **Dileep Kushwaha** (https://github.com/dileepkushwaha48)
 
 We are currently pursuing our Bachelor's in Computer Applications and are keen on building a future where technology and innovation go hand in hand.
 
@@ -24,8 +24,8 @@ Our main areas of focus include:
 ## Follow Us
 
 Stay updated with our latest projects and insights:
-- **Instagram:** [TriadTechFusion Instagram](https://instagram.com/triadtechfusion)
-- **GitHub:** [TriadTechFusion GitHub](https://github.com/triadtechfusion)
+- **Instagram:** [TriadTechFusion](https://instagram.com/triadtechfusion)
+- **GitHub:** [TriadTechFusion](https://github.com/triadtechfusion)
 
 ## Contributing
 
