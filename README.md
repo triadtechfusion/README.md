@@ -33,11 +33,15 @@ We welcome contributions from the community! If you have ideas, suggestions, or 
 
 ## License
 
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact Us
 
-Feel free to reach out to us via our social media or directly through GitHub. We look forward to connecting with like-minded tech enthusiasts!
+Feel free to reach out to us via our social media or directly through GitHub. You can also email us at:
+
+- **Email:** [triadtechfusion@gmail.com](mailto:triadtechfusion@gmail.com)
+
+We look forward to connecting with like-minded tech enthusiasts!
 
 ---
 
